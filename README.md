@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Student at IPB University
-- 🌱 I’m currently learning Golang and Jetpack Compose
+- 🌱 I’m currently learning Golang and Typescript
 - 💬 Ask me about anything
 - 📫 How to reach me: [Instagram](https://www.instagram.com/imr.bp/) or [linkedin](https://www.linkedin.com/in/i-made-raditya-bayu-pangestu-910a5a1b6)
 <!--
