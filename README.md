@@ -1,8 +1,6 @@
 ### Hi there 👋
-
-- 🔭 Student at IPB University
-- 🌱 I’m currently learning Golang and Typescript
-- 💬 Ask me about anything
+- 🌱 I’m currently learning Golang
+- - 💬 Ask me about anything
 - 📫 How to reach me: [Instagram](https://www.instagram.com/imr.bp/) or [linkedin](https://www.linkedin.com/in/i-made-raditya-bayu-pangestu-910a5a1b6)
 <!--
 **imrbp/imrbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
