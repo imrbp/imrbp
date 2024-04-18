@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrbp&label=Profile%20views&color=0e75b6&style=flat" alt="imrbp" /> </p>
 
-- 🌱 I’m currently learning **Java, Javascript, Rabbitmq, Redis and Many More**
+- 🌱 I’m currently learning **Java, Rabbitmq, Redis and Many More**
 
 - 📫 How to reach me **imr.bp.24@gmail.com**
 
