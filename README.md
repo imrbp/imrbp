@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Made or Radit</h1>
-<h3 align="center">A passionate Software developer from Indonesia. Especially in Backend</h3>
+<h3 align="center">A passionate backend engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrbp&label=Profile%20views&color=0e75b6&style=flat" alt="imrbp" /> </p>
 
-- 🌱 I’m currently learning **Java, Rabbitmq, Redis and Many More**
+- 🌱 I’m currently learning **Rabbitmq, Redis and Many More**
 
 - 📫 How to reach me **imr.bp.24@gmail.com**
 
